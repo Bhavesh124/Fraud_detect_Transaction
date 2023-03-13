@@ -29,7 +29,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "main.py",
-    "shema.yaml"
+    "schema.yaml"
 ]
 
 for filepath in list_of_files:
