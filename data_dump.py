@@ -5,9 +5,9 @@ import dask.dataframe as dd
 
 client = pymongo.MongoClient("mongodb+srv://mongodb:mongodb@cluster0.4ajckbg.mongodb.net/?retryWrites=true&w=majority")
 
-DATA_FILE_PATH = "/config/workspace/PS_20174392719_1491204439457_log.csv"
+DATA_FILE_PATH = "C:\Users\Suyash\Downloads\PS_20174392719_1491204439457_log.csv (1)\PS_20174392719_1491204439457_log.csv"
 DATABASE_NAME = "Fraud_detection"
-COLLECTION_NAME = "transaction"
+COLLECTION_NAME = "Transaction"
 
 
 if __name__=="__main__":
