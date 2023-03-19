@@ -2,7 +2,7 @@ import os
 import logging
 from datetime import datetime
 
-LOG_DIR = "logs"
+LOG_DIR = "Transaction_log"
 
 CURRENT_TIME_STEMP = f"{datetime.now().strftime('%Y-%m-%d %H-%M-%S')}"
 
